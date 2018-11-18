@@ -12,3 +12,6 @@ Compare Beto O'Rourke's and Lupe Valdez's campaign and combine that analysis wit
 
 turnout = % turnout to VAP
 https://www.sos.state.tx.us/elections/historical/70-92.shtml
+
+https://elections.sos.state.tx.us/elchist319_raceselect.htm
+https://www.dshs.texas.gov/chs/hprc/counties.shtm
