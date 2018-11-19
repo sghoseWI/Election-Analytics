@@ -1,17 +1,33 @@
 # Texas-Blue
 
-Predict for: What would make Texas blue in a presidential election. 
+### Question: 
 
-Training data: historical election results, census demographics, CPI/GDP for Texas, latino and youth botes, oil gas lobby, national political climate, ethnicity of the candidate
+What is the effect of having a pro-gun-control stance when running in an election in Texas, controlling for other factors? 
 
 y: democratic two party vote share
 x: factors
 
-Develop a model that predicts democratic vote in Texas and determine drivers of increased Democratic vote share. 
-Compare Beto O'Rourke's and Lupe Valdez's campaign and combine that analysis with the model to ascertain what would need to change to make Texas blue in a presidential election. 
+#### Controls considered
+
+County-specific:
+* Percentage of population that is Hispanic
+* Percentage of population that is White
+* Whether the county borders Mexico
+* Whether it is a rural or urban county
+* Number of veterans per 1000 residents
+* Number of crimes per 1000 residents
+
+Candidate-specific:
+* Whether the candidate is female
+* Whether the candidate is Hispanic
+* Stances gun-control, abortion, and the environment
+
+### Sources:
 
 turnout = % turnout to VAP
 https://www.sos.state.tx.us/elections/historical/70-92.shtml
 
 https://elections.sos.state.tx.us/elchist319_raceselect.htm
+https://www.dshs.texas.gov/chs/hprc/counties.shtm
+
 https://www.dshs.texas.gov/chs/hprc/counties.shtm
