@@ -1,28 +1,28 @@
-dem_candidate,office,district_num,med_two_party_vtshare
-Adam P. Bell,house,3,0.5649408314574255
-Al Green,house,9,0.8027748945549781
-Bill Bradshaw,house,12,0.16753449622494143
-Eddie Bernice Johnson,house,30,0.8041788510517875
-Eric Mauck,house,26,0.3206503199181276
-Filemon B. Vela,house,34,0.55706789111184
-Gene Green,house,29,0.7513963627793707
-Hal J Ridley Jr. ,house,36,0.08591905564924114
-Henry Cuellar,house,28,0.7538513948294788
-James Cargas,house,7,0.7801967368435719
-Jan McDowell,house,24,0.4386694864603926
-Kathi Thomas,house,25,0.20017326330608046
-Lloyd Doggett,house,35,0.5746531485502623
-Marc Veasy,house,33,0.7368919575400485
-Mark Gibson,house,22,0.4014479056035701
-Michael Cole,house,14,0.5375923621867303
-Mike Clark,house,31,0.37561337313915333
-Pat Bryan,house,2,0.5941656984326464
-Pete P. Gallego,house,23,0.4423529411764706
-Raul (Roy) Barrera,house,27,0.3051264640977763
-Ruby Faye Woolridge,house,6,0.31838787669458596
-Sheila Jackson Lee,house,18,0.4236159
-Shirley McKellar,house,1,0.28629209705227376
-Tawana W. Cadien,house,10,0.22010162349733547
-Tom Wakely,house,21,0.18476058408560952
-Vincete Gonzalez,house,15,0.5288615485490633
-William Matta,house,17,0.26425622275633404
+dem_candidate,office,district_num,med_two_party_vtshare,pro_gun_control,pro_choice,pro_climate,candidate_male,candidate_hispanic,candidate_female
+Adam P. Bell,house,3,0.564940831,1,1,1,1,0,0
+Al Green,house,9,0.802774895,1,1,1,1,0,0
+Bill Bradshaw,house,12,0.167534496,,,,1,0,0
+Eddie Bernice Johnson,house,30,0.804178851,1,1,1,0,0,1
+Eric Mauck,house,26,0.32065032,1,0,1,1,0,0
+Filemon B. Vela,house,34,0.557067891,0,1,0,1,1,0
+Gene Green,house,29,0.751396363,0,1,1,1,0,0
+Hal J Ridley Jr. ,house,36,0.085919056,1,1,1,1,0,0
+Henry Cuellar,house,28,0.753851395,0,0,1,1,1,0
+James Cargas,house,7,0.780196737,1,1,1,1,0,0
+Jan McDowell,house,24,0.438669486,1,1,1,1,0,0
+Kathi Thomas,house,25,0.200173263,1,1,1,0,0,1
+Lloyd Doggett,house,35,0.574653149,1,1,1,1,0,0
+Marc Veasy,house,33,0.736891958,1,1,1,1,0,0
+Mark Gibson,house,22,0.401447906,1,0,0,1,0,0
+Michael Cole,house,14,0.537592362,0,1,1,1,0,0
+Mike Clark,house,31,0.375613373,1,1,1,1,0,0
+Pat Bryan,house,2,0.594165698,1,,,1,0,0
+Pete P. Gallego,house,23,0.442352941,0,1,1,1,1,0
+Raul (Roy) Barrera,house,27,0.305126464,,,,1,1,0
+Ruby Faye Woolridge,house,6,0.318387877,1,,1,0,1,1
+Sheila Jackson Lee,house,18,0.4236159,1,1,1,0,0,1
+Shirley McKellar,house,1,0.286292097,1,1,1,0,0,1
+Tawana W. Cadien,house,10,0.220101623,1,1,1,0,1,1
+Tom Wakely,house,21,0.184760584,1,1,1,1,0,0
+Vincete Gonzalez,house,15,0.528861549,1,1,,1,1,0
+William Matta,house,17,0.264256223,1,1,,1,0,0
