@@ -14,8 +14,7 @@ x: factors
 Candidate-specific:
 * Whether the candidate is female
 * Whether the candidate is Hispanic
-* Stances gun-control, abortion, and the environment
-
+* Stances gun-control
 ### Sources:
 
 turnout = % turnout to VAP
