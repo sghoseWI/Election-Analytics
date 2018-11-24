@@ -9,13 +9,7 @@ x: factors
 
 #### Controls considered
 
-County-specific:
-* Percentage of population that is Hispanic
-* Percentage of population that is White
-* Whether the county borders Mexico
-* Whether it is a rural or urban county
-* Number of veterans per 1000 residents
-* Number of crimes per 1000 residents
+
 
 Candidate-specific:
 * Whether the candidate is female
