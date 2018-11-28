@@ -9,9 +9,6 @@ x: factors
 
 #### Controls considered
 
-
-
-Candidate-specific:
 * Whether the candidate is female
 * Whether the candidate is Hispanic
 * Stances gun-control
