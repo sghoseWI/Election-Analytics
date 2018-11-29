@@ -9,7 +9,10 @@ x: factors
 
 #### Controls considered
 
+<<<<<<< HEAD
 Candidate-specific:
+=======
+>>>>>>> fba05496851a49e8d515e572f7ac72852b0d1fce
 * Whether the candidate is female
 * Whether the candidate is Hispanic
 * Stances gun-control
