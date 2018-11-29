@@ -9,15 +9,13 @@ x: factors
 
 #### Controls considered
 
-
-
 Candidate-specific:
 * Whether the candidate is female
 * Whether the candidate is Hispanic
 * Stances gun-control
+
 ### Sources:
 
-turnout = % turnout to VAP
 https://www.sos.state.tx.us/elections/historical/70-92.shtml
 
 https://elections.sos.state.tx.us/elchist319_raceselect.htm
