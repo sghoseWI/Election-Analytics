@@ -5,8 +5,6 @@
 - [Saptarshi Ghose](https://github.com/sghoseWI)
 - [Natasha Mathur](https://github.com/natashamathur)
 
-We are graduate students in the [CAPP](https://capp.uchicago.edu/) program at the University of Chicago.
-
 ### Question: 
 
 What is the effect of having a pro-gun-control stance on Democratic two-party vote share when running for office in Texas? 
