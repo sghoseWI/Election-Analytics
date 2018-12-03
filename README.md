@@ -25,7 +25,7 @@ What is the effect of having a pro-gun-control stance on Democratic two-party vo
 * 2014 House and Senate elections
 
 ### Included Files:
-This repository makes use of [Python 3.6](https://docs.python.org/3/), the package [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4), and [R](https://www.r-project.org/). If any of the Jupyter notebooks do not load correctly please enter the link for the notebook [here](https://nbviewer.jupyter.org/).
+This repository makes use of [Python 3.6](https://docs.python.org/3/), the package [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4), and [R](https://www.r-project.org/). If any of the [Jupyter notebooks](http://jupyter.org/) do not load correctly please enter the link for the notebook [here](https://nbviewer.jupyter.org/).
 
 
 * [`county_scraper.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/county_scraper.ipynb) - Data collected on districts in each county
