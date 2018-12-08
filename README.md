@@ -31,15 +31,15 @@ This repository makes use of [Python 3.6](https://docs.python.org/3/), the packa
 
 * [`sec_final_project.R`](https://github.com/sghoseWI/Texas-Blue/blob/master/sec_final_project.R) - Final models and output
 
+* [`final_data_for_model_1.csv`](https://github.com/sghoseWI/Texas-Blue/blob/master/final_data_for_model_1.csv) - Information for the 2016 and 2014 house, senate, and presidential election along with controls 
+
+* [`Science of Elections Writeup.pdf`](https://github.com/sghoseWI/Texas-Blue/blob/master/Science%20of%20Elections%20Writeup.pdf) - A paper describing the methods, reasoning, models, and results used in this analysis. 
+
 * [`put_data_together.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/put_data_together.ipynb) - Used to data from all the years and elections with control factors.
 
 * [`county_scraper.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/county_scraper.ipynb) - Data collected on districts in each county
 
 * [`prelim_models.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/prelim_model.ipynb) - Initial data collection and analysis
-
-
-
-
 
 
 
