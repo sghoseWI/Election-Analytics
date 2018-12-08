@@ -9,6 +9,10 @@
 
 What is the effect of having a pro-gun-control stance on Democratic two-party vote share when running for office in Texas? 
 
+### Treatment:
+
+Whether the candidate supports progressive gun control measures
+
 ### Controls considered
 
 * Whether the candidate is male
@@ -25,10 +29,14 @@ What is the effect of having a pro-gun-control stance on Democratic two-party vo
 ### Included Files:
 This repository makes use of [Python 3.6](https://docs.python.org/3/), the package [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4), and [R](https://www.r-project.org/). If any of the [Jupyter notebooks](http://jupyter.org/) do not load correctly please enter the link for the notebook [here](https://nbviewer.jupyter.org/).
 
+* [`sec_final_project.R`](https://github.com/sghoseWI/Texas-Blue/blob/master/sec_final_project.R) - Final models and output
+
+* [`put_data_together.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/put_data_together.ipynb) - Used to data from all the years and elections with control factors.
 
 * [`county_scraper.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/county_scraper.ipynb) - Data collected on districts in each county
 
-* [`put_data_together.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/put_data_together.ipynb) - Used to data from all the years and elections with control factors.
+* [`prelim_models.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/prelim_model.ipynb) - Initial data collection and analysis
+
 
 
 
