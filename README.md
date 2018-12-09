@@ -13,7 +13,7 @@ What is the effect of having a pro-gun-control stance on Democratic two-party vo
 
 Whether the candidate supports progressive gun control measures
 
-### Controls considered
+### Controls Considered:
 
 * Whether the candidate is male
 * Whether the candidate is Hispanic
@@ -21,7 +21,7 @@ Whether the candidate supports progressive gun control measures
 * Whether the candidate supports a progressive minimum wage policy
 * Office, County, district, and year fixed effects 
 
-### Elections Analyzed
+### Elections Analyzed:
 
 * 2016 House and Presidential elections
 * 2014 House and Senate elections
@@ -33,7 +33,7 @@ This repository makes use of [Python 3.6](https://docs.python.org/3/), the packa
 
 * [`final_data_for_model_1.csv`](https://github.com/sghoseWI/Texas-Blue/blob/master/final_data_for_model_1.csv) - Information for the 2016 and 2014 house, senate, and presidential election along with controls 
 
-* [`Science of Elections Writeup.pdf`](https://github.com/sghoseWI/Texas-Blue/blob/master/Science%20of%20Elections%20Writeup.pdf) - A paper describing the methods, reasoning, models, and results used in this analysis. 
+* [`Science of Elections Writeup.pdf`](https://github.com/sghoseWI/Texas-Blue/blob/master/Science%20of%20Elections%20Writeup.pdf) - Discussion of the methods, reasoning, models, and results used in this analysis. 
 
 * [`put_data_together.ipynb`](https://github.com/sghoseWI/Texas-Blue/blob/master/put_data_together.ipynb) - Used to data from all the years and elections with control factors.
 
